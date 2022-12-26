@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/17/cd/41/17cd4124e87c4b30a5fecf2605d86b6b.png)](https://avinashchourasia.io)
+[![MasterHead](https://i.pinimg.com/236x/17/cd/41/17cd4124e87c4b30a5fecf2605d86b6b--computer-science-wallpapers.jpg)](https://avinashchourasia.io)
 <h1 align="center">Hi 👋, I'm Avinash Chourasia</h1>
 <h3 align="center">A passionate Competitive Programmer & frontend developer from India</h3>
 <img src = "https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif" alt = "coding" align = "right" width = "400">
