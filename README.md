@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/1111946.jpg)](https://avinashchourasia.io)
+[![MasterHead](https://thumbs.dreamstime.com/b/contour-light-bulb-glowing-bright-black-rays-yellow-electric-lighting-new-creative-vector-idea-241586444.jpg)](https://avinashchourasia.io)
 <h1 align="center">Hi 👋, I'm Avinash Chourasia</h1>
 <h3 align="center">A passionate Competitive Programmer & frontend developer from India</h3>
 <img src = "https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif" alt = "coding" align = "right" width = "400">
